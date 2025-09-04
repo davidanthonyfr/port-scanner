@@ -9,7 +9,7 @@ This project demonstrates basic networking concepts like sockets and port scanni
 - **Port 6463** → used by Discord (local connections)  
 - **Port 7000** → used by tools like Redis or custom servers  
 
-<img width="500" height="255" alt="image" src="https://github.com/user-attachments/assets/edbd7e0d-8fd9-4393-8a90-9a2783b8a11f" />
+<img width="500" height="174" alt="image" src="https://github.com/user-attachments/assets/48e5e875-89e7-4943-aafa-52a1672c366c" />
 
 ## 📚 What I Learned
 - How port scanning works and why it matters in cybersecurity.
